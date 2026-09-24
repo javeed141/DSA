@@ -3,7 +3,7 @@ profits = [10, 6, 1]
 weights = [3, 2, 1]
 ans:12
 
-  capacity = 10
+  capacity = 10 
 profits = [5, 11, 13]
 weights = [2, 4, 6]
 ans:27
